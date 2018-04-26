@@ -1,0 +1,16 @@
+<ROOT>
+    <data>
+        <record>
+            <field name="Country or Area">Afghanistan</field>
+            <field name="Subgroup">Female 15+ yr</field>
+            <field name="Year">2000</field>
+            <field name="Source">UNESCO_UIS Database_Sep2007</field>
+            <field name="Unit">Percent</field>
+            <field name="Value">12.6</field>
+            <field name="Value Footnotes"></field>
+        </record>
+    </data>
+    <footnotes>
+        <footnote fnSeqID="1">UIS estimation.</footnote>
+    </footnotes>
+</ROOT>
